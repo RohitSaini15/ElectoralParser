@@ -1,0 +1,64 @@
+[
+  {
+    "card_number": null,
+    "name": "रावत सिंह",
+    "house_no": null,
+    "district": null,
+    "gender": null,
+    "age": null,
+    "address": null,
+    "village": null,
+    "children": [
+      {
+        "card_number": "SOD0373670",
+        "name": "भीम सिंह",
+        "house_no": "1274",
+        "district": "जैसलमेर",
+        "gender": "male",
+        "age": "30",
+        "address": "।-बीदावत पाडा रामगढ",
+        "village": "रणाउ"
+      },
+      {
+        "card_number": "LNP1908052",
+        "name": "छगनसिंह",
+        "house_no": "1274",
+        "district": "जैसलमेर",
+        "gender": "male",
+        "age": "42",
+        "address": "।-बीदावत पाडा रामगढ",
+        "village": "रणाउ",
+        "spouse": {
+          "card_number": "LNP2669018",
+          "name": "धाई कंवर",
+          "house_no": "1274",
+          "district": "जैसलमेर",
+          "gender": "female",
+          "age": "39",
+          "address": "।-बीदावत पाडा रामगढ",
+          "village": "रणाउ"
+        }
+      },
+      {
+        "card_number": "S0OD0751909",
+        "name": "पृथ्वी सिंह",
+        "house_no": "1274",
+        "district": "जैसलमेर",
+        "gender": "male",
+        "age": "28",
+        "address": "।-बीदावत पाडा रामगढ",
+        "village": "रणाउ"
+      }
+    ],
+    "spouse": {
+      "card_number": "RJ/23/181/006230",
+      "name": "उछनो",
+      "house_no": "1274",
+      "district": "जैसलमेर",
+      "gender": "female",
+      "age": "66",
+      "address": "।-बीदावत पाडा रामगढ",
+      "village": "रणाउ"
+    }
+  }
+]
